@@ -80,12 +80,12 @@ const About = () => {
                 </p>
             </section>
 
-            <section className="cta-section">
+            {/* <section className="cta-section">
                 <h2>Talk to one of our Experts for a Customized Solution</h2>
                 <button>
                     <a href="/contact">Click Here</a>
                 </button>
-            </section>
+            </section> */}
         </div>
     );
 };
